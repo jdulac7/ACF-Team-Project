@@ -22,6 +22,7 @@ get_header(); ?>
 	<div class="search_container">
 	<fieldset>
 	    <h4>Search by Department</h4>
+<p>test add</p>
 
 	    <select>
 		  <option value="">Select</option>
